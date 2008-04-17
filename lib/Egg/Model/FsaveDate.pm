@@ -2,12 +2,12 @@ package Egg::Model::FsaveDate;
 #
 # Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>
 #
-# $Id: FsaveDate.pm 283 2008-02-27 05:27:43Z lushe $
+# $Id: FsaveDate.pm 316 2008-04-17 11:54:05Z lushe $
 #
 use strict;
 use warnings;
 
-our $VERSION= '0.01';
+our $VERSION= '0.02';
 
 package Egg::Model::FsaveDate::handler;
 use strict;
